@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+requests
+pytest
+allure-pytest
+pip install pytest-html
