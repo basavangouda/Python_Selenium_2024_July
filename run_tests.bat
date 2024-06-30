@@ -1,6 +1,6 @@
 @echo off
 :: Navigate to project directory
-
+cd  /d D:\Git-Git-Hub\July-2024\Python_Selenium_2024_July
 
 :: Set up virtual environment
 python -m venv venv
